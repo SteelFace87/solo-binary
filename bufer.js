@@ -50,3 +50,6 @@ function emojiReplacer(buf, emoji, replaceWithEmoji) {
   return buf;
 }
 
+module.exports = emojiReplacer;
+
+
