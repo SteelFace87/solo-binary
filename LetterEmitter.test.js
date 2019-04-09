@@ -37,4 +37,4 @@ describe('LetterEmitterTest', () =>
         done();
 
     })
-})
+})lengt
